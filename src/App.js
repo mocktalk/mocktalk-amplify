@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React balls
+          Learn React ball
         </a>
       </header>
     </div>
